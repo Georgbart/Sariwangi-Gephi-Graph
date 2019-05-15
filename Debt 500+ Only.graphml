@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="formal name" attr.type="string" for="node" id="formal name"/>
+<key attr.name="class" attr.type="string" for="node" id="class"/>
+<key attr.name="networth by end of 2017 (billions of idr)" attr.type="double" for="node" id="networth by end of 2017 (billions of idr)"/>
+<key attr.name="reference" attr.type="string" for="node" id="reference"/>
+<key attr.name="cause" attr.type="string" for="node" id="cause"/>
+<key attr.name="source name" attr.type="string" for="edge" id="source name"/>
+<key attr.name="target name" attr.type="string" for="edge" id="target name"/>
+<key attr.name="class" attr.type="string" for="edge" id="class"/>
+<key attr.name="note" attr.type="string" for="edge" id="note"/>
+<key attr.name="reference" attr.type="string" for="edge" id="reference"/>
+<graph edgedefault="directed">
+<node id="18">
+<data key="label">Bank Pan</data>
+<data key="formal name">PT Bank Pan Indonesia Tbk</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-273.55536</data>
+<data key="y">38.5436</data>
+</node>
+<node id="20">
+<data key="label">BCA</data>
+<data key="formal name">PT Bank Central Asia Tbk</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">131402.0</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-102.04727</data>
+<data key="y">39.173813</data>
+</node>
+<node id="22">
+<data key="label">BNI</data>
+<data key="formal name">PT Bank Negara Indonesia (Persero) Tbk</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-257.93884</data>
+<data key="y">147.64859</data>
+</node>
+<node id="23">
+<data key="label">BoA</data>
+<data key="formal name">Bank of America, Jakarta</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-154.51988</data>
+<data key="y">-68.024155</data>
+</node>
+<node id="27">
+<data key="label">BPD JWB</data>
+<data key="formal name">PT Bank Pembangunan Daerah Jawa Barat &amp; Banten Tbk</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-172.90744</data>
+<data key="y">-99.79266</data>
+</node>
+<node id="30">
+<data key="label">BSMI</data>
+<data key="formal name">PT Bank Sumitomo Mitsui Indonesia</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-5.4718547</data>
+<data key="y">93.77194</data>
+</node>
+<node id="35">
+<data key="label">Citibank</data>
+<data key="formal name">Citibank N.A, Indonesia</data>
+<data key="class">Financial</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">73.49481</data>
+<data key="y">-59.545662</data>
+</node>
+<node id="36">
+<data key="label">Commonwealth</data>
+<data key="formal name">PT Bank Commonwealth</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">4065.478</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">209.81886</data>
+<data key="y">153.6422</data>
+</node>
+<node id="44">
+<data key="label">DBS</data>
+<data key="formal name">PT Bank DBS Indonesia</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-206.69875</data>
+<data key="y">147.38928</data>
+</node>
+<node id="45">
+<data key="label">Deutsche Bank</data>
+<data key="formal name">Deutsche Bank, Jakarta</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-249.13326</data>
+<data key="y">161.11223</data>
+</node>
+<node id="51">
+<data key="label">ICBC</data>
+<data key="formal name">PT Bank ICBC Indonesia</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">5754.439</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">223.31561</data>
+<data key="y">-74.09665</data>
+</node>
+<node id="53">
+<data key="label">ICBC CHN</data>
+<data key="formal name">Industrial and Commercial Bank of China Ltd, China</data>
+<data key="class">Financial</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">322.56528</data>
+<data key="y">-21.780243</data>
+</node>
+<node id="55">
+<data key="label">ICBC HKG</data>
+<data key="formal name">Industrial and Commercial Bank of China Ltd, Hon Kong</data>
+<data key="class">Financial</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">351.8755</data>
+<data key="y">-165.84454</data>
+</node>
+<node id="61">
+<data key="label">JP Morgan</data>
+<data key="formal name">JP Morgan Chase Bank</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">9.224201</data>
+<data key="y">-56.150307</data>
+</node>
+<node id="62">
+<data key="label">Mandiri</data>
+<data key="formal name">PT Bank Mandiri (Persero) Tbk</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-27.735</data>
+<data key="y">-73.06274</data>
+</node>
+<node id="71">
+<data key="label">Rabobank</data>
+<data key="formal name">PT Bank Rabobank International Indonesia</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">1802.467</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">8.519718</data>
+<data key="y">-173.93164</data>
+</node>
+<node id="75">
+<data key="label">S Chartered</data>
+<data key="formal name">Standard Chartered Bank</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-176.52428</data>
+<data key="y">-16.07483</data>
+</node>
+<node id="84">
+<data key="label">Wells Fargo</data>
+<data key="formal name">Wells Fargo Bank</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-261.53415</data>
+<data key="y">127.43966</data>
+</node>
+<node id="88">
+<data key="label">BI</data>
+<data key="formal name">Bank Indonesia</data>
+<data key="class">Government</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">255</data>
+<data key="x">92.02017</data>
+<data key="y">46.05682</data>
+</node>
+<node id="89">
+<data key="label">Interbank</data>
+<data key="formal name">Interbank</data>
+<data key="class">Interbank</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">255</data>
+<data key="x">181.33604</data>
+<data key="y">23.531559</data>
+</node>
+<edge id="19" source="51" target="35">
+<data key="edgelabel">678.375</data>
+<data key="weight">678.375</data>
+<data key="source name">ICBC</data>
+<data key="target name">Citibank</data>
+<data key="class">DebtTo</data>
+<data key="note">Debt</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="21" source="51" target="53">
+<data key="edgelabel">679.375</data>
+<data key="weight">679.375</data>
+<data key="source name">ICBC</data>
+<data key="target name">ICBC CHN</data>
+<data key="class">DebtTo</data>
+<data key="note">Debt</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="23" source="51" target="89">
+<data key="edgelabel">1954.546</data>
+<data key="weight">1954.5460205078125</data>
+<data key="source name">ICBC</data>
+<data key="target name">Interbank</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="27" source="55" target="51">
+<data key="edgelabel">2184.368</data>
+<data key="weight">2184.367919921875</data>
+<data key="source name">ICBC HKG</data>
+<data key="target name">ICBC</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="33" source="61" target="20">
+<data key="edgelabel">3411.896</data>
+<data key="weight">3411.89599609375</data>
+<data key="source name">JP Morgan</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Account</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="35" source="62" target="20">
+<data key="edgelabel">980.76</data>
+<data key="weight">980.760009765625</data>
+<data key="source name">Mandiri</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="57" source="88" target="20">
+<data key="edgelabel">9411.567</data>
+<data key="weight">9411.5673828125</data>
+<data key="source name">BI</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="59" source="88" target="36">
+<data key="edgelabel">678.375</data>
+<data key="weight">678.375</data>
+<data key="source name">BI</data>
+<data key="target name">Commonwealth</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="61" source="88" target="51">
+<data key="edgelabel">1198.324</data>
+<data key="weight">1198.323974609375</data>
+<data key="source name">BI</data>
+<data key="target name">ICBC</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="63" source="88" target="71">
+<data key="edgelabel">773.094</data>
+<data key="weight">773.093994140625</data>
+<data key="source name">BI</data>
+<data key="target name">Rabobank</data>
+<data key="class">DebtTo</data>
+<data key="note">Account</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="65" source="89" target="36">
+<data key="edgelabel">877.074</data>
+<data key="weight">877.073974609375</data>
+<data key="source name">Interbank</data>
+<data key="target name">Commonwealth</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="67" source="89" target="51">
+<data key="edgelabel">1335.629</data>
+<data key="weight">1335.6290283203125</data>
+<data key="source name">Interbank</data>
+<data key="target name">ICBC</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="69" source="44" target="20">
+<data key="edgelabel">773.758</data>
+<data key="weight">773.7579956054688</data>
+<data key="source name">DBS</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Account</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="70" source="84" target="20">
+<data key="edgelabel">607.654</data>
+<data key="weight">607.6539916992188</data>
+<data key="source name">Wells Fargo</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Account</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="83" source="22" target="20">
+<data key="edgelabel">1712.64</data>
+<data key="weight">1712.6400146484375</data>
+<data key="source name">BNI</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="84" source="30" target="20">
+<data key="edgelabel">1677.45</data>
+<data key="weight">1677.449951171875</data>
+<data key="source name">BSMI</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="85" source="23" target="20">
+<data key="edgelabel">520</data>
+<data key="weight">520.0</data>
+<data key="source name">BoA</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="88" source="27" target="20">
+<data key="edgelabel">517.716</data>
+<data key="weight">517.7160034179688</data>
+<data key="source name">BPD JWB</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="89" source="18" target="20">
+<data key="edgelabel">500</data>
+<data key="weight">500.0</data>
+<data key="source name">Bank Pan</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="90" source="45" target="20">
+<data key="edgelabel">500</data>
+<data key="weight">500.0</data>
+<data key="source name">Deutsche Bank</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Placement</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+<edge id="106" source="75" target="20">
+<data key="edgelabel">557.195</data>
+<data key="weight">557.1950073242188</data>
+<data key="source name">S Chartered</data>
+<data key="target name">BCA</data>
+<data key="class">DebtTo</data>
+<data key="note">Account</data>
+<data key="reference">https://www.bca.co.id/~/media/Files/Report/Tahunan/20180323-laporan-tahunan-2017-ID.ashx</data>
+</edge>
+</graph>
+</graphml>

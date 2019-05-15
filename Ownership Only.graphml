@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="formal name" attr.type="string" for="node" id="formal name"/>
+<key attr.name="class" attr.type="string" for="node" id="class"/>
+<key attr.name="networth by end of 2017 (billions of idr)" attr.type="double" for="node" id="networth by end of 2017 (billions of idr)"/>
+<key attr.name="reference" attr.type="string" for="node" id="reference"/>
+<key attr.name="cause" attr.type="string" for="node" id="cause"/>
+<key attr.name="source name" attr.type="string" for="edge" id="source name"/>
+<key attr.name="target name" attr.type="string" for="edge" id="target name"/>
+<key attr.name="class" attr.type="string" for="edge" id="class"/>
+<key attr.name="note" attr.type="string" for="edge" id="note"/>
+<key attr.name="reference" attr.type="string" for="edge" id="reference"/>
+<graph edgedefault="directed">
+<node id="0">
+<data key="label">Aditirta S</data>
+<data key="formal name">PT Aditirta Suryasentosa</data>
+<data key="class">Company</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">-69.00802</data>
+<data key="y">-375.91006</data>
+</node>
+<node id="1">
+<data key="label">Antariksabuana</data>
+<data key="formal name">PT Antariksabuana Citanagara</data>
+<data key="class">Company</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">-108.75706</data>
+<data key="y">-392.09494</data>
+</node>
+<node id="2">
+<data key="label">Antarindo O</data>
+<data key="formal name">PT Antarindo Optima</data>
+<data key="class">Company</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">-152.44785</data>
+<data key="y">-357.1693</data>
+</node>
+<node id="3">
+<data key="label">CR Aroma</data>
+<data key="formal name">CR Aroma Ltd</data>
+<data key="class">Company</data>
+<data key="cause">https://nasional.kontan.co.id/news/pkpu-sariwangi-berakhir-damai</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">411.52368</data>
+<data key="y">-302.86594</data>
+</node>
+<node id="4">
+<data key="label">Fincom SP</data>
+<data key="formal name">PT Fincom Surya Putra</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">359.24213</data>
+<data key="y">275.54208</data>
+</node>
+<node id="5">
+<data key="label">Giga Galaxy</data>
+<data key="formal name">PT Giga Galaxy</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">151.80183</data>
+<data key="y">336.94687</data>
+</node>
+<node id="6">
+<data key="label">Intidana</data>
+<data key="formal name">PT Intidana Wijaya</data>
+<data key="class">Company</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">193.57298</data>
+<data key="y">-193.81796</data>
+</node>
+<node id="7">
+<data key="label">Mitra UKS</data>
+<data key="formal name">PT Mitra Usaha Kencana Sejati</data>
+<data key="class">Company</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">-169.64879</data>
+<data key="y">-318.80966</data>
+</node>
+<node id="8">
+<data key="label">Murni galaxy</data>
+<data key="formal name">PT Murni Galaxy</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">311.42947</data>
+<data key="y">339.4048</data>
+</node>
+<node id="9">
+<data key="label">Nirmala</data>
+<data key="formal name">PT Nirmala Agung</data>
+<data key="class">Company</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">556.4526</data>
+<data key="y">40.829678</data>
+</node>
+<node id="10">
+<data key="label">Perkasa NG</data>
+<data key="formal name">PT Perkasa Nusa Guna</data>
+<data key="class">Company</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">569.53925</data>
+<data key="y">-52.6834</data>
+</node>
+<node id="11">
+<data key="label">Prima RL</data>
+<data key="formal name">PT Prima Rukun Langgeng</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">342.14706</data>
+<data key="y">306.46826</data>
+</node>
+<node id="12">
+<data key="label">Ramadewan W</data>
+<data key="formal name">PT Ramadewan Winoko</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">373.54074</data>
+<data key="y">187.7379</data>
+</node>
+<node id="13">
+<data key="label">Samudra AM</data>
+<data key="formal name">PT Samudra Anugerah Megah</data>
+<data key="class">Company</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">304.9075</data>
+<data key="y">302.76706</data>
+</node>
+<node id="14">
+<data key="label">Tjigaru</data>
+<data key="formal name">PT Tjigaru</data>
+<data key="class">Company</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">0</data>
+<data key="x">572.0803</data>
+<data key="y">-4.78696</data>
+</node>
+<node id="36">
+<data key="label">Commonwealth</data>
+<data key="formal name">PT Bank Commonwealth</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">4065.478</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">196.86269</data>
+<data key="y">187.08522</data>
+</node>
+<node id="39">
+<data key="label">Commonwealth Ltd</data>
+<data key="formal name">Commonwealth Bank Commonwealth Bank
+of Australia Ltd</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">179.7676</data>
+<data key="y">353.43152</data>
+</node>
+<node id="51">
+<data key="label">ICBC</data>
+<data key="formal name">PT Bank ICBC Indonesia</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">5754.439</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">213.05879</data>
+<data key="y">-86.20139</data>
+</node>
+<node id="57">
+<data key="label">ICBC Ltd</data>
+<data key="formal name">Industrial and Commercial Bank of China Ltd</data>
+<data key="class">Financial</data>
+<data key="cause">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">298.05972</data>
+<data key="y">4.291281</data>
+</node>
+<node id="71">
+<data key="label">Rabobank</data>
+<data key="formal name">PT Bank Rabobank International Indonesia</data>
+<data key="class">Financial</data>
+<data key="networth by end of 2017 (billions of idr)">1802.467</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="cause">https://nasional.kontan.co.id/news/tagihan-kreditur-sariwangi-dan-indorub-capai-rp-1-triliun</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-44.696278</data>
+<data key="y">-206.00342</data>
+</node>
+<node id="74">
+<data key="label">Rabobank UA</data>
+<data key="formal name">Cooperatieve Rabobank U.A</data>
+<data key="class">Financial</data>
+<data key="cause">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-115.04685</data>
+<data key="y">-347.44586</data>
+</node>
+<node id="86">
+<data key="label">Indorub</data>
+<data key="formal name">PT Maskapai Perkebunan Indorub Sumber Wadung</data>
+<data key="class">First Failure</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">456.13663</data>
+<data key="y">-21.271816</data>
+</node>
+<node id="87">
+<data key="label">Sariwangi AEA</data>
+<data key="formal name">PT Sariwangi Agricultural Estate Agent</data>
+<data key="class">First Failure</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">380.08707</data>
+<data key="y">-247.35657</data>
+</node>
+<edge id="42" source="71" target="74">
+<data key="edgelabel">79.73</data>
+<data key="weight">2.0</data>
+<data key="source name">Rabobank</data>
+<data key="target name">Rabobank UA</data>
+<data key="class">OwnedBy</data>
+<data key="note">Account</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="107" source="0" target="74">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Aditirta S</data>
+<data key="target name">Rabobank UA</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309759834</data>
+</edge>
+<edge id="108" source="1" target="74">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Antariksabuana</data>
+<data key="target name">Rabobank UA</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309760582</data>
+</edge>
+<edge id="109" source="2" target="74">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Antarindo O</data>
+<data key="target name">Rabobank UA</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309761591</data>
+</edge>
+<edge id="110" source="9" target="86">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Nirmala</data>
+<data key="target name">Indorub</data>
+<data key="class">OwnedBy</data>
+</edge>
+<edge id="111" source="10" target="86">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Perkasa NG</data>
+<data key="target name">Indorub</data>
+<data key="class">OwnedBy</data>
+</edge>
+<edge id="112" source="14" target="86">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Tjigaru</data>
+<data key="target name">Indorub</data>
+<data key="class">OwnedBy</data>
+</edge>
+<edge id="113" source="36" target="4">
+<data key="edgelabel">0.04</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Fincom SP</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="114" source="36" target="5">
+<data key="edgelabel">0.35</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Giga Galaxy</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="115" source="36" target="8">
+<data key="edgelabel">0.35</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Murni galaxy</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="116" source="36" target="11">
+<data key="edgelabel">0.07</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Prima RL</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="117" source="36" target="12">
+<data key="edgelabel">0.08</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Ramadewan W</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="118" source="36" target="13">
+<data key="edgelabel">0.11</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Samudra AM</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="119" source="36" target="39">
+<data key="edgelabel">99</data>
+<data key="weight">1.0</data>
+<data key="source name">Commonwealth</data>
+<data key="target name">Commonwealth Ltd</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.commbank.co.id/lib_ui/repository/doc/COMMBANK_AR_2017_webversion.pdf</data>
+</edge>
+<edge id="120" source="51" target="6">
+<data key="edgelabel">1.39</data>
+<data key="weight">1.0</data>
+<data key="source name">ICBC</data>
+<data key="target name">Intidana</data>
+<data key="class">OwnedBy</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="121" source="51" target="57">
+<data key="edgelabel">98.61</data>
+<data key="weight">1.0</data>
+<data key="source name">ICBC</data>
+<data key="target name">ICBC Ltd</data>
+<data key="class">OwnedBy</data>
+<data key="reference">http://v.icbc.com.cn/userfiles/Resources/ICBC/haiwai/Indonesia/download/2018/AuditedFinancialStatement2017.PDF</data>
+</edge>
+<edge id="122" source="71" target="0">
+<data key="edgelabel">8</data>
+<data key="weight">1.0</data>
+<data key="source name">Rabobank</data>
+<data key="target name">Aditirta S</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="123" source="71" target="1">
+<data key="edgelabel">4</data>
+<data key="weight">1.0</data>
+<data key="source name">Rabobank</data>
+<data key="target name">Antariksabuana</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="124" source="71" target="2">
+<data key="edgelabel">8</data>
+<data key="weight">1.0</data>
+<data key="source name">Rabobank</data>
+<data key="target name">Antarindo O</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="125" source="71" target="7">
+<data key="edgelabel">0.27</data>
+<data key="weight">1.0</data>
+<data key="source name">Rabobank</data>
+<data key="target name">Mitra UKS</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://www.rabobank.co.id/id/images/Rabobank_AR_24april_final_lores.pdf</data>
+</edge>
+<edge id="127" source="86" target="87">
+<data key="edgelabel">100</data>
+<data key="weight">1.0</data>
+<data key="source name">Indorub</data>
+<data key="target name">Sariwangi AEA</data>
+<data key="class">OwnedBy</data>
+</edge>
+<edge id="128" source="87" target="3">
+<data key="edgelabel">70</data>
+<data key="weight">1.0</data>
+<data key="source name">Sariwangi AEA</data>
+<data key="target name">CR Aroma</data>
+<data key="class">OwnedBy</data>
+<data key="reference">https://nasional.kontan.co.id/news/pkpu-sariwangi-berakhir-damai</data>
+</edge>
+</graph>
+</graphml>
